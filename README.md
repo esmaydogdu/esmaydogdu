@@ -6,8 +6,8 @@ Based in Amsterdam, where I read, write and take photographs when I'm not coding
 
 ### Currently
 
-Building with JavaScript frameworks and design systems.
-Learning and experimenting with ML, vector databases, shaders, threeJS.
+Building with JavaScript frameworks and design systems. </br>
+Learning and experimenting with ML, vector databases, shaders, threeJS. </br>
 Diving into things whenever it feels like connecting the dots.
 
 _With plenty of tree-staring for good measure_
